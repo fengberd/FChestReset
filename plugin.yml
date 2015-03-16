@@ -1,0 +1,19 @@
+name: FChestReset
+main: FChestReset\Main
+version: "1.0.0"
+author: FENGberd
+api: [1.0.0]
+load: POSTWORLD
+commands:
+ cr:
+  permission: FChestReset.command
+  description: 基础命令
+  usage: /cr <add|remove|reload|reset>
+permissions:
+ FChestReset.*:
+  default: op
+  description: 顶级权限
+  children:
+   FChestReset.command.*:
+    default: op
+    description: qwq
