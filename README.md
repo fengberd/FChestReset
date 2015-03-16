@@ -9,10 +9,10 @@ Commands:<br />
 
 You must edit items.yml
 Format:("[SPACE]" means " ")
-[SPACE]-[SPACE]<Item ID>
-[SPACE]-[SPACE]<Item Damage>
-[SPACE]-[SPACE]<Item ID>
-[SPACE]-[SPACE]<Item Damage>
+[SPACE]-[SPACE]Item ID
+[SPACE]-[SPACE]Item Damage
+[SPACE]-[SPACE]Item ID
+[SPACE]-[SPACE]Item Damage
 .......
 
 It look like
